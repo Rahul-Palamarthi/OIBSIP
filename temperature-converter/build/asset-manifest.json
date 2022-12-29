@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7005088.css",
+    "main.js": "/static/js/main.74ca7a0c.js",
+    "static/media/PPMori-SemiBoldItalic.otf": "/static/media/PPMori-SemiBoldItalic.e01f0721fd62284717b8.otf",
+    "static/media/PPMori-SemiBold.otf": "/static/media/PPMori-SemiBold.336abfe2da355e4fa8dd.otf",
+    "index.html": "/index.html",
+    "main.a7005088.css.map": "/static/css/main.a7005088.css.map",
+    "main.74ca7a0c.js.map": "/static/js/main.74ca7a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7005088.css",
+    "static/js/main.74ca7a0c.js"
+  ]
+}
