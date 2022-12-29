@@ -20,10 +20,10 @@ Follo the steps to download the dependencies
 -   clone the repository by running the command
 
 ```git
-
+git clone "https://github.com/Rahul-Palamarthi/OIBSIP.git"
 ```
 
--   navigate to the respective dir running the command
+-   navigate to the respective dir by running the command
 
 ```bash
 cd <directory name>
